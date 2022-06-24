@@ -1,0 +1,13 @@
+p{
+    color: chartreuse;
+}
+a{
+    color: red;
+}
+li{
+    list-style-type: square;
+}
+.special{
+    color: midnightblue;
+    font-weight: bold;
+}
